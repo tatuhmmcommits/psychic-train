@@ -1,0 +1,5 @@
+{ "type": "minecraft:crafting_shapeless", "category": "equipment",
+  "ingredients": [ { "item": "invictus:nanobot_swarm" }, { "item": "elysium:elysium_ingot" },
+                   { "item": "elysium:elysium_ingot" }, { "item": "elysium:elysium_ingot" },
+                   { "item": "minecraft:copper_ingot" }, { "item": "minecraft:copper_ingot" } ],
+  "result": { "item": "invictus:invictus_rapier" } }

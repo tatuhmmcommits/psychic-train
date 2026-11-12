@@ -1,0 +1,3 @@
+{ "type": "minecraft:crafting_shapeless", "category": "misc",
+  "ingredients": [ { "item": "elysium:elysium_ingot" }, { "item": "minecraft:experience_bottle" } ],
+  "result": { "item": "invictus:enchanted_elysium_flask" } }

@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "id": "invictus",
+  "version": "${version}",
+  "name": "Diansu Invictus",
+  "description": "An Elysium addon: become the bossfight. Adds the Invictus form and its arsenal.",
+  "authors": ["(your name)"],
+  "contact": {},
+  "license": "MIT",
+  "environment": "*",
+  "entrypoints": { "main": ["dev.invictus.InvictusMod"] },
+  "depends": {
+    "fabricloader": ">=0.14.21",
+    "minecraft": "~1.20.1",
+    "java": ">=17",
+    "fabric-api": "*",
+    "pehkui": "*",
+    "elysium": ">=1.1.2"
+  }
+}

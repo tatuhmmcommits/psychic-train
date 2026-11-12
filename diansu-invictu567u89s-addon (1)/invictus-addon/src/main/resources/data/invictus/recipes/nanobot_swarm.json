@@ -1,0 +1,3 @@
+{ "type": "minecraft:crafting_shapeless", "category": "misc",
+  "ingredients": [ { "item": "invictus:enchanted_elysium_flask" }, { "item": "minecraft:sculk_catalyst" } ],
+  "result": { "item": "invictus:nanobot_swarm" } }

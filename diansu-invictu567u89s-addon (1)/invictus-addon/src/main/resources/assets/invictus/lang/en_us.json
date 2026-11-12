@@ -1,0 +1,15 @@
+{
+  "itemGroup.invictus.main": "Diansu Invictus",
+  "item.invictus.invictus_engine": "Invictus Engine",
+  "item.invictus.invictus_rapier": "Condensed Energy Rapier",
+  "item.invictus.ampe": "AMPE",
+  "item.invictus.battery": "Battery",
+  "item.invictus.enchanted_elysium_flask": "Flask of Enchanted Elysium",
+  "item.invictus.nanobot_swarm": "Nanobot Swarm",
+  "effect.invictus.invictus_form": "Invictus",
+  "bossbar.invictus.title": "%s, Invictus - Phase %s",
+  "message.invictus.engaged": "Invictus engaged",
+  "message.invictus.disengaged": "Invictus disengaged",
+  "message.invictus.requires_form": "Requires the Invictus form",
+  "message.invictus.dashes": "Dashes: %s/%s"
+}

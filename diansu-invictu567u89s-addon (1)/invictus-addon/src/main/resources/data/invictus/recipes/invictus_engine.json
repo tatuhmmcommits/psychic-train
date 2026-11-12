@@ -1,0 +1,4 @@
+{ "type": "minecraft:crafting_shapeless", "category": "misc",
+  "ingredients": [ { "item": "invictus:nanobot_swarm" }, { "item": "minecraft:netherite_ingot" },
+                   { "item": "elysium:elysium_ingot" }, { "item": "elysium:elysium_ingot" } ],
+  "result": { "item": "invictus:invictus_engine" } }
